@@ -1,131 +1,131 @@
-/* head part */
-.head-part{background-color: rgba(229, 84, 115, 0.10); width: 1920px;
-    height: 1000px;}
-    body{font-family: 'Lato', sans-serif;
-        font-family: 'Open Sans', sans-serif;}
-    .first-flower{width: 635px;
-        height: 800px; }
-.head-content{display: flex;}
-.main-button{border-radius: 8px;
-             background: #E55473;
-             padding: 20px 43px;
-            color: #FFF; 
-            font-size: 20px;
-            font-weight: 700;
-            border: none;}
-.starting-text{color: #272727;
-    font-size: 80px;
+    /* head part */
+    .head-part{background-color: rgba(229, 84, 115, 0.10); width: 1920px;
+        height: 1000px;}
+        body{font-family: 'Lato', sans-serif;
+            font-family: 'Open Sans', sans-serif;}
+        .first-flower{width: 635px;
+            height: 800px; }
+    .head-content{display: flex;}
+    .main-button{border-radius: 8px;
+                background: #E55473;
+                padding: 20px 43px;
+                color: #FFF; 
+                font-size: 20px;
+                font-weight: 700;
+                border: none;}
+    .starting-text{color: #272727;
+        font-size: 80px;
+            font-weight: 800;}
+    .head-content{padding: 197px 240px;}
+    .lorem{padding:10px; color: rgba(39, 39, 39, 0.60);
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 30px;}
+    #hi{padding:10px 50px;}
+    /* main part */
+    .main-first{padding:178px 660px 40px;text-align: center;}
+    #main-second{color: #272727;
+        font-size: 40px;
         font-weight: 800;}
-.head-content{padding: 197px 240px;}
-.lorem{padding:10px; color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 30px;}
-#hi{padding:10px 50px;}
-/* main part */
-.main-first{padding:178px 660px 40px;text-align: center;}
-#main-second{color: #272727;
-    font-size: 40px;
-    font-weight: 800;}
-#main-third{color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
-    font-weight: 400;}
-/* window of flowers */
-.windows{display: flex; padding-bottom: 100px;}
-.window-1{border-radius: 300px 300px 0px 0px;
-    background: rgba(167, 33, 98, 0.15);
-    width: 464px;
-    height: 538px;
-    margin-left: 240px; margin-right: 24px; margin-bottom: 32px ;
-  }
-.window-2{width: 464px;
-    height: 538px;
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(5, 151, 160, 0.15); margin-right: 24px  }
-.window-3{width: 464px;
-    height: 538px;
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(71, 125, 17, 0.15);}
-#flower-1{ width: 464px;
-    height: 538px; }
-#flower-2{width: 464px;
-    height: 538px; }
-#flower-3{width: 464px;
-    height: 538px;}
-
-/* 2nd background part */
-.second-part{background-color: rgba(229, 84, 115, 0.05);
-    width: 1922px;
-height: 620px;
-border-radius: 8px; display: flex; margin-bottom: 130px;}
-.second-part-text{padding: 230px 0px 350px 420px; text-align: center;}
-.image-second-part{padding: 100px 430px 100px 200px;}
-span{color: #E55473;}
-.second-main-text{color: #272727;
-    font-size: 35px;
-    font-weight: 800;}
-.second-sub-text{color: rgba(39, 39, 39, 0.60);
-    font-size: 16px;
-    font-weight: 400; }
-/* 3rd part */
-.third-text{text-align: center; margin-bottom: 50px;}
-#instagram{color: #272727;
-    font-size: 40px;
-    font-style: normal;
-    font-weight: 800;}
-.third-sub{color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
-    font-weight: 400;}
-.many-flowers{display: flex;}
-#many-flowers-1{padding-left: 240px;}
-#many-flowers-2{padding-left: 24px;}
-#many-flowers-3{padding-left: 24px;}
-#many-flowers-4{padding-left: 24px; padding-right: 240px;}
-
-/* 4th part */
-.fourth-part{background-image: url(../Rectangle\ 9.png);width: 1440px;
-    height: 449px;border-radius: 8px;margin: 128px 240px;}
-.fourth-text{text-align: center; padding: 122px 550px 233px 600px;}
-#fourth-heading{color: #272727;
-    font-size: 27px;
-    font-weight: 800;}
-#fourth-coupon{color: rgba(39, 39, 39, 0.60);
-    font-size: 16px;
-    font-weight: 400; padding-bottom: 48px;}
-.email-form{text-align: center; display: flex;  }
-#email-form-box{width: 700px;
-    height: 20px;
-    border-radius: 8px;
-    background: #FFF; padding: 22px 100px 22px 100px;
-    margin-left: 0px;
-            border: none; }
-#button-last{border-radius: 8px;
-    background: #E55473;
-    padding: 20px 20px;
-   color: #FFF; 
-   font-size: 16px;
-   font-weight: 700;
-   width: 250px;
-   height: 60px;
-   margin-left: 20px;margin-right: 530px;
-   border: none;}
-   /* footer */
-.footer-text{background-color: #111010; width: 1922px;
-    height: 449px; }
-.footer{ color: #FFF; padding: 128px 783px 0px 784px;}
-.footer-maintext{font-size: 48px;
-    font-style: normal;
-    font-weight: 800;
+    #main-third{color: rgba(39, 39, 39, 0.60);
+        font-size: 18px;
+        font-weight: 400;}
+    /* window of flowers */
+    .windows{display: flex; padding-bottom: 100px;}
+    .window-1{border-radius: 300px 300px 0px 0px;
+        background: rgba(167, 33, 98, 0.15);
+        width: 464px;
+        height: 538px;
+        margin-left: 240px; margin-right: 24px; margin-bottom: 32px ;
     }
-.footer-sub{font-size: 16px;
-    font-weight: 300;
-    color: #FFFFFFE5 ; }
-.all-rights{font-size: 16px;
-    font-style: normal;
-    font-weight: 300;
-    color: #FFFFFF66;}
-    
-         
+    .window-2{width: 464px;
+        height: 538px;
+        border-radius: 300px 300px 0px 0px;
+        background: rgba(5, 151, 160, 0.15); margin-right: 24px  }
+    .window-3{width: 464px;
+        height: 538px;
+        border-radius: 300px 300px 0px 0px;
+        background: rgba(71, 125, 17, 0.15);}
+    #flower-1{ width: 464px;
+        height: 538px; }
+    #flower-2{width: 464px;
+        height: 538px; }
+    #flower-3{width: 464px;
+        height: 538px;}
+
+    /* 2nd background part */
+    .second-part{background-color: rgba(229, 84, 115, 0.05);
+        width: 1922px;
+    height: 620px;
+    border-radius: 8px; display: flex; margin-bottom: 130px;}
+    .second-part-text{padding: 230px 0px 350px 420px; text-align: center;}
+    .image-second-part{padding: 100px 430px 100px 200px;}
+    span{color: #E55473;}
+    .second-main-text{color: #272727;
+        font-size: 35px;
+        font-weight: 800;}
+    .second-sub-text{color: rgba(39, 39, 39, 0.60);
+        font-size: 16px;
+        font-weight: 400; }
+    /* 3rd part */
+    .third-text{text-align: center; margin-bottom: 50px;}
+    #instagram{color: #272727;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 800;}
+    .third-sub{color: rgba(39, 39, 39, 0.60);
+        font-size: 18px;
+        font-weight: 400;}
+    .many-flowers{display: flex;}
+    #many-flowers-1{padding-left: 240px;}
+    #many-flowers-2{padding-left: 24px;}
+    #many-flowers-3{padding-left: 24px;}
+    #many-flowers-4{padding-left: 24px; padding-right: 240px;}
+
+    /* 4th part */
+    .fourth-part{background-image: url(../Rectangle\ 9.png);width: 1440px;
+        height: 449px;border-radius: 8px;margin: 128px 240px;}
+    .fourth-text{text-align: center; padding: 122px 550px 233px 600px;}
+    #fourth-heading{color: #272727;
+        font-size: 27px;
+        font-weight: 800;}
+    #fourth-coupon{color: rgba(39, 39, 39, 0.60);
+        font-size: 16px;
+        font-weight: 400; padding-bottom: 48px;}
+    .email-form{text-align: center; display: flex;  }
+    #email-form-box{width: 700px;
+        height: 20px;
+        border-radius: 8px;
+        background: #FFF; padding: 22px 100px 22px 100px;
+        margin-left: 0px;
+                border: none; }
+    #button-last{border-radius: 8px;
+        background: #E55473;
+        padding: 20px 20px;
+    color: #FFF; 
+    font-size: 16px;
+    font-weight: 700;
+    width: 250px;
+    height: 60px;
+    margin-left: 20px;margin-right: 530px;
+    border: none;}
+    /* footer */
+    .footer-text{background-color: #111010; width: 1900px;
+        height: 400px; }
+    .footer{ color: #FFF; padding: 128px 783px 0px 784px;}
+    .footer-maintext{font-size: 48px;
+        font-style: normal;
+        font-weight: 800;
+        }
+    .footer-sub{font-size: 16px;
+        font-weight: 300;
+        color: #FFFFFFE5 ;}
+    .all-rights{font-size: 16px;
+        font-style: normal;
+        font-weight: 300;
+        color: #FFFFFF66;}
+        
+            
 
 
 
